@@ -5,9 +5,9 @@ A simple and elegant **Expense Tracker** app built using **React Native** and **
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/1.png" width="250" alt="Home Screen" />
-  <img src="screenshots/2.png" width="250" alt="Add Expense" />
-  <img src="screenshots/3.png" width="250" alt="Summary Screen" />
+  <img src="1.png" width="250" alt="Home Screen" />
+  <img src="2.png" width="250" alt="Add Expense" />
+  <img src="3.png" width="250" alt="Summary Screen" />
 </div>
 
 ## 🚀 Features
