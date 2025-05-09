@@ -18,6 +18,10 @@ A simple and elegant **Expense Tracker** app built using **React Native** and **
 - 🧭 Built using Expo and React Native
 - 💾 Data stored locally (can be extended to use Firebase or a backend)
 
+  ## Video
+  
+  - [Linkedin Post]([https://reactnative.dev/](https://www.linkedin.com/posts/ali-hamza-sultan-1ba7ba267_reactnative-aistudent-mobiledevelopment-activity-7326299413834874880-tqGX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFvw54BKr9stc2ZZv3FQmWpBqE238QdEMQ))
+
 ## 🛠️ Built With
 
 - [React Native](https://reactnative.dev/)
